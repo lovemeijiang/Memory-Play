@@ -1,0 +1,5 @@
+com.example.memoryplay.test.app-core-1.6.1-0 D:\Android\.gradle\caches\transforms-4\71cac4e256ddacfdcaf5a7ba22c972e1\transformed\core-1.6.1\res
+com.example.memoryplay.test.app-androidTest-1 F:\My Application\MemoryPlay\app\build\generated\res\resValues\androidTest\debug
+com.example.memoryplay.test.app-mergeDebugAndroidTestResources-2 F:\My Application\MemoryPlay\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\merged.dir
+com.example.memoryplay.test.app-mergeDebugAndroidTestResources-3 F:\My Application\MemoryPlay\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\stripped.dir
+com.example.memoryplay.test.app-debugAndroidTest-4 F:\My Application\MemoryPlay\app\build\intermediates\merged_res\debugAndroidTest\mergeDebugAndroidTestResources

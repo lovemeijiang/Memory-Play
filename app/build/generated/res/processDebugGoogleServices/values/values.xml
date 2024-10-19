@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="gcm_defaultSenderId" translatable="false">316912991256</string>
+    <string name="google_api_key" translatable="false">AIzaSyAo5cQMOqZ7OmMsLJwffZ4f9tdyV9h8s8Y</string>
+    <string name="google_app_id" translatable="false">1:316912991256:android:d1cf8c1690c4fc1958176d</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyAo5cQMOqZ7OmMsLJwffZ4f9tdyV9h8s8Y</string>
+    <string name="google_storage_bucket" translatable="false">memory-play-d9435.appspot.com</string>
+    <string name="project_id" translatable="false">memory-play-d9435</string>
+</resources>

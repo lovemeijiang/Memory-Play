@@ -1,0 +1,222 @@
+[
+    {
+        "merged": "D:\\Android\\.gradle\\daemon\\8.7\\com.example.memoryplay.app-debug-36:\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "D:\\Android\\.gradle\\daemon\\8.7\\com.example.memoryplay.app-main-38:\\mipmap-hdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "D:\\Android\\.gradle\\daemon\\8.7\\com.example.memoryplay.app-debug-36:\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "D:\\Android\\.gradle\\daemon\\8.7\\com.example.memoryplay.app-main-38:\\mipmap-mdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.memoryplay.app-debug-36:/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "com.example.memoryplay.app-main-38:/mipmap-mdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "D:\\Android\\.gradle\\daemon\\8.7\\com.example.memoryplay.app-debug-36:\\drawable_ic_moon.xml.flat",
+        "source": "D:\\Android\\.gradle\\daemon\\8.7\\com.example.memoryplay.app-main-38:\\drawable\\ic_moon.xml"
+    },
+    {
+        "merged": "D:\\Android\\.gradle\\daemon\\8.7\\com.example.memoryplay.app-debug-36:\\drawable_ic_work.xml.flat",
+        "source": "D:\\Android\\.gradle\\daemon\\8.7\\com.example.memoryplay.app-main-38:\\drawable\\ic_work.xml"
+    },
+    {
+        "merged": "D:\\Android\\.gradle\\daemon\\8.7\\com.example.memoryplay.app-debug-36:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "D:\\Android\\.gradle\\daemon\\8.7\\com.example.memoryplay.app-main-38:\\mipmap-xhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "D:\\Android\\.gradle\\daemon\\8.7\\com.example.memoryplay.app-debug-36:\\drawable_ic_gift.xml.flat",
+        "source": "D:\\Android\\.gradle\\daemon\\8.7\\com.example.memoryplay.app-main-38:\\drawable\\ic_gift.xml"
+    },
+    {
+        "merged": "com.example.memoryplay.app-debug-36:/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.memoryplay.app-main-38:/mipmap-mdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "D:\\Android\\.gradle\\daemon\\8.7\\com.example.memoryplay.app-debug-36:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "D:\\Android\\.gradle\\daemon\\8.7\\com.example.memoryplay.app-main-38:\\mipmap-xxxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "D:\\Android\\.gradle\\daemon\\8.7\\com.example.memoryplay.app-debug-36:\\drawable_ic_image.xml.flat",
+        "source": "D:\\Android\\.gradle\\daemon\\8.7\\com.example.memoryplay.app-main-38:\\drawable\\ic_image.xml"
+    },
+    {
+        "merged": "D:\\Android\\.gradle\\daemon\\8.7\\com.example.memoryplay.app-debug-36:\\drawable_ic_lightbulb.xml.flat",
+        "source": "D:\\Android\\.gradle\\daemon\\8.7\\com.example.memoryplay.app-main-38:\\drawable\\ic_lightbulb.xml"
+    },
+    {
+        "merged": "com.example.memoryplay.app-debug-36:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.memoryplay.app-main-38:/mipmap-xxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.memoryplay.app-debug-36:/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.memoryplay.app-main-38:/mipmap-hdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.memoryplay.app-debug-36:/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "com.example.memoryplay.app-main-38:/mipmap-xxxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "D:\\Android\\.gradle\\daemon\\8.7\\com.example.memoryplay.app-debug-36:\\drawable_ic_home.xml.flat",
+        "source": "D:\\Android\\.gradle\\daemon\\8.7\\com.example.memoryplay.app-main-38:\\drawable\\ic_home.xml"
+    },
+    {
+        "merged": "D:\\Android\\.gradle\\daemon\\8.7\\com.example.memoryplay.app-debug-36:\\layout_dialog_board_size.xml.flat",
+        "source": "D:\\Android\\.gradle\\daemon\\8.7\\com.example.memoryplay.app-main-38:\\layout\\dialog_board_size.xml"
+    },
+    {
+        "merged": "com.example.memoryplay.app-debug-36:/mipmap-mdpi_ic_launcher_foreground.webp.flat",
+        "source": "com.example.memoryplay.app-main-38:/mipmap-mdpi/ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "D:\\Android\\.gradle\\daemon\\8.7\\com.example.memoryplay.app-debug-36:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "D:\\Android\\.gradle\\daemon\\8.7\\com.example.memoryplay.app-main-38:\\mipmap-xxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "D:\\Android\\.gradle\\daemon\\8.7\\com.example.memoryplay.app-debug-36:\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "D:\\Android\\.gradle\\daemon\\8.7\\com.example.memoryplay.app-main-38:\\mipmap-xhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.memoryplay.app-debug-36:/drawable_ic_launcher_background.xml.flat",
+        "source": "com.example.memoryplay.app-main-38:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "D:\\Android\\.gradle\\daemon\\8.7\\com.example.memoryplay.app-debug-36:\\layout_memory_card.xml.flat",
+        "source": "D:\\Android\\.gradle\\daemon\\8.7\\com.example.memoryplay.app-main-38:\\layout\\memory_card.xml"
+    },
+    {
+        "merged": "D:\\Android\\.gradle\\daemon\\8.7\\com.example.memoryplay.app-debug-36:\\mipmap-anydpi_ic_launcher.xml.flat",
+        "source": "D:\\Android\\.gradle\\daemon\\8.7\\com.example.memoryplay.app-main-38:\\mipmap-anydpi\\ic_launcher.xml"
+    },
+    {
+        "merged": "D:\\Android\\.gradle\\daemon\\8.7\\com.example.memoryplay.app-debug-36:\\drawable_ic_face.xml.flat",
+        "source": "D:\\Android\\.gradle\\daemon\\8.7\\com.example.memoryplay.app-main-38:\\drawable\\ic_face.xml"
+    },
+    {
+        "merged": "D:\\Android\\.gradle\\daemon\\8.7\\com.example.memoryplay.app-debug-36:\\drawable_ic_heart.xml.flat",
+        "source": "D:\\Android\\.gradle\\daemon\\8.7\\com.example.memoryplay.app-main-38:\\drawable\\ic_heart.xml"
+    },
+    {
+        "merged": "com.example.memoryplay.app-debug-36:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "com.example.memoryplay.app-main-38:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "D:\\Android\\.gradle\\daemon\\8.7\\com.example.memoryplay.app-debug-36:\\drawable_ic_send.xml.flat",
+        "source": "D:\\Android\\.gradle\\daemon\\8.7\\com.example.memoryplay.app-main-38:\\drawable\\ic_send.xml"
+    },
+    {
+        "merged": "D:\\Android\\.gradle\\daemon\\8.7\\com.example.memoryplay.app-debug-36:\\drawable_ic_star.xml.flat",
+        "source": "D:\\Android\\.gradle\\daemon\\8.7\\com.example.memoryplay.app-main-38:\\drawable\\ic_star.xml"
+    },
+    {
+        "merged": "com.example.memoryplay.app-debug-36:/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.memoryplay.app-main-38:/mipmap-xhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.memoryplay.app-debug-36:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.example.memoryplay.app-main-38:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "D:\\Android\\.gradle\\daemon\\8.7\\com.example.memoryplay.app-debug-36:\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "D:\\Android\\.gradle\\daemon\\8.7\\com.example.memoryplay.app-main-38:\\mipmap-xxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.memoryplay.app-debug-36:/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "com.example.memoryplay.app-main-38:/mipmap-xxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.memoryplay.app-debug-36:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.memoryplay.app-main-38:/mipmap-xxxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "D:\\Android\\.gradle\\daemon\\8.7\\com.example.memoryplay.app-debug-36:\\layout_dialog_download_board.xml.flat",
+        "source": "D:\\Android\\.gradle\\daemon\\8.7\\com.example.memoryplay.app-main-38:\\layout\\dialog_download_board.xml"
+    },
+    {
+        "merged": "D:\\Android\\.gradle\\daemon\\8.7\\com.example.memoryplay.app-debug-36:\\drawable_ic_launcher_foreground.xml.flat",
+        "source": "D:\\Android\\.gradle\\daemon\\8.7\\com.example.memoryplay.app-main-38:\\drawable\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "D:\\Android\\.gradle\\daemon\\8.7\\com.example.memoryplay.app-debug-36:\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "D:\\Android\\.gradle\\daemon\\8.7\\com.example.memoryplay.app-main-38:\\mipmap-hdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "D:\\Android\\.gradle\\daemon\\8.7\\com.example.memoryplay.app-debug-36:\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "D:\\Android\\.gradle\\daemon\\8.7\\com.example.memoryplay.app-main-38:\\mipmap-mdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "D:\\Android\\.gradle\\daemon\\8.7\\com.example.memoryplay.app-debug-36:\\drawable_ic_launcher_background.xml.flat",
+        "source": "D:\\Android\\.gradle\\daemon\\8.7\\com.example.memoryplay.app-main-38:\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "com.example.memoryplay.app-debug-36:/mipmap-xhdpi_ic_launcher_foreground.webp.flat",
+        "source": "com.example.memoryplay.app-main-38:/mipmap-xhdpi/ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "D:\\Android\\.gradle\\daemon\\8.7\\com.example.memoryplay.app-debug-36:\\drawable_ic_sun.xml.flat",
+        "source": "D:\\Android\\.gradle\\daemon\\8.7\\com.example.memoryplay.app-main-38:\\drawable\\ic_sun.xml"
+    },
+    {
+        "merged": "D:\\Android\\.gradle\\daemon\\8.7\\com.example.memoryplay.app-debug-36:\\drawable_ic_plane.xml.flat",
+        "source": "D:\\Android\\.gradle\\daemon\\8.7\\com.example.memoryplay.app-main-38:\\drawable\\ic_plane.xml"
+    },
+    {
+        "merged": "D:\\Android\\.gradle\\daemon\\8.7\\com.example.memoryplay.app-debug-36:\\xml_data_extraction_rules.xml.flat",
+        "source": "D:\\Android\\.gradle\\daemon\\8.7\\com.example.memoryplay.app-main-38:\\xml\\data_extraction_rules.xml"
+    },
+    {
+        "merged": "D:\\Android\\.gradle\\daemon\\8.7\\com.example.memoryplay.app-debug-36:\\drawable_ic_refresh.xml.flat",
+        "source": "D:\\Android\\.gradle\\daemon\\8.7\\com.example.memoryplay.app-main-38:\\drawable\\ic_refresh.xml"
+    },
+    {
+        "merged": "com.example.memoryplay.app-debug-36:/mipmap-xxhdpi_ic_launcher_foreground.webp.flat",
+        "source": "com.example.memoryplay.app-main-38:/mipmap-xxhdpi/ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "D:\\Android\\.gradle\\daemon\\8.7\\com.example.memoryplay.app-debug-36:\\layout_card_image.xml.flat",
+        "source": "D:\\Android\\.gradle\\daemon\\8.7\\com.example.memoryplay.app-main-38:\\layout\\card_image.xml"
+    },
+    {
+        "merged": "D:\\Android\\.gradle\\daemon\\8.7\\com.example.memoryplay.app-debug-36:\\xml_backup_rules.xml.flat",
+        "source": "D:\\Android\\.gradle\\daemon\\8.7\\com.example.memoryplay.app-main-38:\\xml\\backup_rules.xml"
+    },
+    {
+        "merged": "com.example.memoryplay.app-debug-36:/mipmap-hdpi_ic_launcher_foreground.webp.flat",
+        "source": "com.example.memoryplay.app-main-38:/mipmap-hdpi/ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "com.example.memoryplay.app-debug-36:/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "com.example.memoryplay.app-main-38:/mipmap-xhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "D:\\Android\\.gradle\\daemon\\8.7\\com.example.memoryplay.app-debug-36:\\mipmap-anydpi_ic_launcher_round.xml.flat",
+        "source": "D:\\Android\\.gradle\\daemon\\8.7\\com.example.memoryplay.app-main-38:\\mipmap-anydpi\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.example.memoryplay.app-debug-36:/mipmap-xxxhdpi_ic_launcher_foreground.webp.flat",
+        "source": "com.example.memoryplay.app-main-38:/mipmap-xxxhdpi/ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "D:\\Android\\.gradle\\daemon\\8.7\\com.example.memoryplay.app-debug-36:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "D:\\Android\\.gradle\\daemon\\8.7\\com.example.memoryplay.app-main-38:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "D:\\Android\\.gradle\\daemon\\8.7\\com.example.memoryplay.app-debug-36:\\layout_activity_create.xml.flat",
+        "source": "D:\\Android\\.gradle\\daemon\\8.7\\com.example.memoryplay.app-main-38:\\layout\\activity_create.xml"
+    },
+    {
+        "merged": "D:\\Android\\.gradle\\daemon\\8.7\\com.example.memoryplay.app-debug-36:\\layout_activity_main.xml.flat",
+        "source": "D:\\Android\\.gradle\\daemon\\8.7\\com.example.memoryplay.app-main-38:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "com.example.memoryplay.app-debug-36:/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "com.example.memoryplay.app-main-38:/mipmap-hdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "D:\\Android\\.gradle\\daemon\\8.7\\com.example.memoryplay.app-debug-36:\\menu_menu_main.xml.flat",
+        "source": "D:\\Android\\.gradle\\daemon\\8.7\\com.example.memoryplay.app-main-38:\\menu\\menu_main.xml"
+    },
+    {
+        "merged": "D:\\Android\\.gradle\\daemon\\8.7\\com.example.memoryplay.app-debug-36:\\drawable_ic_school.xml.flat",
+        "source": "D:\\Android\\.gradle\\daemon\\8.7\\com.example.memoryplay.app-main-38:\\drawable\\ic_school.xml"
+    }
+]

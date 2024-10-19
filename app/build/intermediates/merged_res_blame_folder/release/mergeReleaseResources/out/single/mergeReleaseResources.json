@@ -1,0 +1,170 @@
+[
+    {
+        "merged": "com.example.memoryplay.app-release-36:/drawable_ic_heart.xml.flat",
+        "source": "com.example.memoryplay.app-main-37:/drawable/ic_heart.xml"
+    },
+    {
+        "merged": "com.example.memoryplay.app-release-36:/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "com.example.memoryplay.app-main-37:/mipmap-xxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.memoryplay.app-release-36:/drawable_ic_work.xml.flat",
+        "source": "com.example.memoryplay.app-main-37:/drawable/ic_work.xml"
+    },
+    {
+        "merged": "com.example.memoryplay.app-release-36:/drawable_ic_moon.xml.flat",
+        "source": "com.example.memoryplay.app-main-37:/drawable/ic_moon.xml"
+    },
+    {
+        "merged": "com.example.memoryplay.app-release-36:/drawable_ic_refresh.xml.flat",
+        "source": "com.example.memoryplay.app-main-37:/drawable/ic_refresh.xml"
+    },
+    {
+        "merged": "com.example.memoryplay.app-release-36:/drawable_ic_launcher_foreground.xml.flat",
+        "source": "com.example.memoryplay.app-main-37:/drawable/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "com.example.memoryplay.app-release-36:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.example.memoryplay.app-main-37:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "com.example.memoryplay.app-release-36:/drawable_ic_star.xml.flat",
+        "source": "com.example.memoryplay.app-main-37:/drawable/ic_star.xml"
+    },
+    {
+        "merged": "com.example.memoryplay.app-release-36:/layout_activity_create.xml.flat",
+        "source": "com.example.memoryplay.app-main-37:/layout/activity_create.xml"
+    },
+    {
+        "merged": "com.example.memoryplay.app-release-36:/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "com.example.memoryplay.app-main-37:/mipmap-xxxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.memoryplay.app-release-36:/layout_card_image.xml.flat",
+        "source": "com.example.memoryplay.app-main-37:/layout/card_image.xml"
+    },
+    {
+        "merged": "com.example.memoryplay.app-release-36:/menu_menu_main.xml.flat",
+        "source": "com.example.memoryplay.app-main-37:/menu/menu_main.xml"
+    },
+    {
+        "merged": "com.example.memoryplay.app-release-36:/drawable_ic_school.xml.flat",
+        "source": "com.example.memoryplay.app-main-37:/drawable/ic_school.xml"
+    },
+    {
+        "merged": "com.example.memoryplay.app-release-36:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.memoryplay.app-main-37:/mipmap-xxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.memoryplay.app-release-36:/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "com.example.memoryplay.app-main-37:/mipmap-hdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.memoryplay.app-release-36:/drawable_ic_launcher_background.xml.flat",
+        "source": "com.example.memoryplay.app-main-37:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "com.example.memoryplay.app-release-36:/mipmap-xxxhdpi_ic_launcher_foreground.webp.flat",
+        "source": "com.example.memoryplay.app-main-37:/mipmap-xxxhdpi/ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "com.example.memoryplay.app-release-36:/mipmap-hdpi_ic_launcher_foreground.webp.flat",
+        "source": "com.example.memoryplay.app-main-37:/mipmap-hdpi/ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "com.example.memoryplay.app-release-36:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.memoryplay.app-main-37:/mipmap-xxxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.memoryplay.app-release-36:/drawable_ic_home.xml.flat",
+        "source": "com.example.memoryplay.app-main-37:/drawable/ic_home.xml"
+    },
+    {
+        "merged": "com.example.memoryplay.app-release-36:/mipmap-mdpi_ic_launcher_foreground.webp.flat",
+        "source": "com.example.memoryplay.app-main-37:/mipmap-mdpi/ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "com.example.memoryplay.app-release-36:/layout_dialog_board_size.xml.flat",
+        "source": "com.example.memoryplay.app-main-37:/layout/dialog_board_size.xml"
+    },
+    {
+        "merged": "com.example.memoryplay.app-release-36:/layout_memory_card.xml.flat",
+        "source": "com.example.memoryplay.app-main-37:/layout/memory_card.xml"
+    },
+    {
+        "merged": "com.example.memoryplay.app-release-36:/xml_data_extraction_rules.xml.flat",
+        "source": "com.example.memoryplay.app-main-37:/xml/data_extraction_rules.xml"
+    },
+    {
+        "merged": "com.example.memoryplay.app-release-36:/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.memoryplay.app-main-37:/mipmap-xhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.memoryplay.app-release-36:/layout_activity_main.xml.flat",
+        "source": "com.example.memoryplay.app-main-37:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.example.memoryplay.app-release-36:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "com.example.memoryplay.app-main-37:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.example.memoryplay.app-release-36:/drawable_ic_lightbulb.xml.flat",
+        "source": "com.example.memoryplay.app-main-37:/drawable/ic_lightbulb.xml"
+    },
+    {
+        "merged": "com.example.memoryplay.app-release-36:/mipmap-xhdpi_ic_launcher_foreground.webp.flat",
+        "source": "com.example.memoryplay.app-main-37:/mipmap-xhdpi/ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "com.example.memoryplay.app-release-36:/drawable_ic_send.xml.flat",
+        "source": "com.example.memoryplay.app-main-37:/drawable/ic_send.xml"
+    },
+    {
+        "merged": "com.example.memoryplay.app-release-36:/xml_backup_rules.xml.flat",
+        "source": "com.example.memoryplay.app-main-37:/xml/backup_rules.xml"
+    },
+    {
+        "merged": "com.example.memoryplay.app-release-36:/drawable_ic_face.xml.flat",
+        "source": "com.example.memoryplay.app-main-37:/drawable/ic_face.xml"
+    },
+    {
+        "merged": "com.example.memoryplay.app-release-36:/layout_dialog_download_board.xml.flat",
+        "source": "com.example.memoryplay.app-main-37:/layout/dialog_download_board.xml"
+    },
+    {
+        "merged": "com.example.memoryplay.app-release-36:/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.memoryplay.app-main-37:/mipmap-mdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.memoryplay.app-release-36:/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.memoryplay.app-main-37:/mipmap-hdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.memoryplay.app-release-36:/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "com.example.memoryplay.app-main-37:/mipmap-mdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.memoryplay.app-release-36:/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "com.example.memoryplay.app-main-37:/mipmap-xhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.memoryplay.app-release-36:/drawable_ic_sun.xml.flat",
+        "source": "com.example.memoryplay.app-main-37:/drawable/ic_sun.xml"
+    },
+    {
+        "merged": "com.example.memoryplay.app-release-36:/drawable_ic_gift.xml.flat",
+        "source": "com.example.memoryplay.app-main-37:/drawable/ic_gift.xml"
+    },
+    {
+        "merged": "com.example.memoryplay.app-release-36:/drawable_ic_plane.xml.flat",
+        "source": "com.example.memoryplay.app-main-37:/drawable/ic_plane.xml"
+    },
+    {
+        "merged": "com.example.memoryplay.app-release-36:/mipmap-xxhdpi_ic_launcher_foreground.webp.flat",
+        "source": "com.example.memoryplay.app-main-37:/mipmap-xxhdpi/ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "com.example.memoryplay.app-release-36:/drawable_ic_image.xml.flat",
+        "source": "com.example.memoryplay.app-main-37:/drawable/ic_image.xml"
+    }
+]
